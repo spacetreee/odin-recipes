@@ -1,0 +1,16 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.intro {
+    font-style: italic;
+    text-align: center;
+    font-size: 22px;
+}
+
+ul {
+    font-size: 22px;
+}
